@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="es">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Óptica MIRARTE - Catálogo, Citas y Consejos</title>
+    <link rel="stylesheet" href="style.css">
+    <script src="js/script.js"></script>
+</head>
+
+<body>
+    <header>
+        <nav>
+            <ul>
+                <li><a href="#catalogo">Catálogo</a></li>
+                <li><a href="#citas">Citas</a></li>
+                <li><a href="#noticias">Noticias y Consejos</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <main>
+        <section id="catalogo">
+            <h1>Catálogo de Productos y Servicios</h1>
+            <!-- Aquí se añadirán los productos y servicios dinámicamente -->
+        </section>
+
+        <section id="citas">
+            <h2>Formulario de Contacto y Citas</h2>
+            <form action="contacto.php" method="POST">
+                <label for="nombre">Nombre:</label>
+                <input type="text" id="nombre" name="nombre" required>
+
+                <label for="email">Email:</label>
+                <input type="email" id="email" name="email" required>
+
+                <label for="telefono">Teléfono:</label>
+                <input type="tel" id="telefono" name="telefono">
+
+                <label for="mensaje">Mensaje:</label>
+                <textarea id="mensaje" name="mensaje" required></textarea>
+
+                <input type="submit" value="Enviar">
+            </form>
+        </section>
+
+        <section id="noticias">
+            <h2>Noticias y Consejos</h2>
+            <!-- Aquí se añadirán las noticias y consejos dinámicamente -->
+    </main>
+
+    <footer>
+        <p>Óptica MIRARTE- Todos los derechos reservados &copy; 2023</p>
+        <div>
+        </div>
+    </footer>
+</body>
+
+</html>
