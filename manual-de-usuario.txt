@@ -1,0 +1,33 @@
+## Uso
+
+### Sección de referencia para usuario final
+
+Para utilizar la aplicación como usuario final, siga los siguientes pasos:
+
+1. Abra un navegador web y navegue a la URL de la aplicación.
+2. Explore la página principal de la aplicación, que debería incluir las siguientes secciones:
+
+- Catálogo de productos y servicios: muestra una lista de los productos y servicios ofrecidos por la óptica.
+- Formulario de contacto y citas: permite enviar un mensaje y solicitar una cita con la óptica.
+- Noticias y consejos: muestra noticias y consejos relacionados con la salud visual y la elección de lentes.
+
+3. Para acceder a cualquiera de las secciones, haga clic en el enlace correspondiente en la barra de navegación.
+4. Complete y envíe el formulario de contacto y citas para solicitar una cita con la óptica.
+5. Revise la sección de noticias y consejos para obtener información relevante sobre la salud visual y la elección de lentes.
+
+### Sección de referencia para usuario administrador
+
+Para utilizar la aplicación como usuario administrador, siga los siguientes pasos:
+
+1. Abra un navegador web y navegue a la URL de la aplicación.
+2. Inicie sesión en la aplicación como usuario administrador utilizando las credenciales proporcionadas.
+3. Explore el panel de administración de la aplicación, que debería incluir las siguientes secciones:
+
+- Gestión de productos y servicios: permite agregar, editar y eliminar productos y servicios.
+- Gestión de citas: permite ver y administrar las citas programadas con los clientes.
+- Gestión de noticias y consejos: permite agregar, editar y eliminar noticias y consejos relacionados con la salud visual y la elección de lentes.
+
+4. Para acceder a cualquiera de las secciones, haga clic en el enlace correspondiente en la barra de navegación.
+5. Agregue, edite o elimine productos y servicios según sea necesario.
+6. Administre las citas programadas con los clientes según sea necesario.
+7. Agregue, edite o elimine noticias y consejos relacionados con la salud visual y la elección de lentes según sea necesario.
