@@ -16,11 +16,11 @@ La página web fue desarrollada utilizando tecnologías web estándar, como HTML
 
 ###Tabla de contenidos
 
-Descripción
-Problema identificado
-Solución
-Arquitectura
-Sección de catálogo de productos y servicios
-Sección de información de contacto y ubicación
-Sección de formulario de contacto y citas
-Sección de noticias y consejos
+- Descripción
+- Problema identificado
+- Solución
+- Arquitectura
+- Sección de catálogo de productos y servicios
+- Sección de información de contacto y ubicación
+- Sección de formulario de contacto y citas
+- Sección de noticias y consejos
