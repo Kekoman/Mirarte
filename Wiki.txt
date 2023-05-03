@@ -1,0 +1,23 @@
+# Sección de catálogo de productos y servicios
+
+La sección de catálogo de productos y servicios contiene información detallada sobre los productos y servicios que ofrece la óptica.
+
+- [Página de catálogo de productos y servicios](https://github.com/Kekoman/Mirarte/wiki/Catálogo-de-productos-y-servicios)
+
+# Sección de información de contacto y ubicación
+
+La sección de información de contacto y ubicación proporciona a los clientes información relevante sobre la ubicación de la óptica y cómo ponerse en contacto con ella.
+
+- [Página de información de contacto y ubicación](https://github.com/Kekoman/Mirarte/wiki/Información-de-contacto-y-ubicación)
+
+# Sección de formulario de contacto y citas
+
+La sección de formulario de contacto y citas permite a los clientes solicitar citas y enviar mensajes de contacto directamente desde el sitio web.
+
+- [Página de formulario de contacto y citas](https://github.com/Kekoman/Mirarte/wiki/Formulario-de-contacto-y-citas)
+
+# Sección de noticias y consejos
+
+La sección de noticias y consejos proporciona a los clientes información actualizada sobre las últimas tendencias y novedades en el mundo de la óptica.
+
+- [Página de noticias y consejos](https://github.com/Kekoman/Mirarte/wiki/Noticias-y-consejos)
