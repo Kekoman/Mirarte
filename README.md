@@ -14,13 +14,9 @@ Para mitigar esta situación, se propuso la creación de una página web que inc
 
 La página web fue desarrollada utilizando tecnologías web estándar, como HTML, CSS y JavaScript, y se aloja en un servidor web. El sitio web se estructuró en diferentes secciones, cada una representada por una página web separada y accesible a través del menú de navegación. La interacción con el usuario se maneja principalmente a través de formularios web, que permiten a los usuarios solicitar citas y enviar mensajes de contacto.
 
-###Tabla de contenidos
+## Tabla de contenidos
 
-- Descripción
-- Problema identificado
-- Solución
-- Arquitectura
-- Sección de catálogo de productos y servicios
-- Sección de información de contacto y ubicación
-- Sección de formulario de contacto y citas
-- Sección de noticias y consejos
+- [Sección de catálogo de productos y servicios](https://github.com/Kekoman/Mirarte/wiki/Catálogo-de-productos-y-servicios)
+- [Sección de información de contacto y ubicación](https://github.com/Kekoman/Mirarte/wiki/Información-de-contacto-y-ubicación)
+- [Sección de formulario de contacto y citas](https://github.com/Kekoman/Mirarte/wiki/Formulario-de-contacto-y-citas)
+- [Sección de noticias y consejos](https://github.com/Kekoman/Mirarte/wiki/Noticias-y-consejos)
